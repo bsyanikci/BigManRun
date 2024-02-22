@@ -1,2 +1,2 @@
 # BigManRun
-BigManRun 3D Mobile Hyper-CasualGame
+BigManRun 3D Mobile Hyper-Casual Game
