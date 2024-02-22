@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ed359bc712f26443b555597e9a18899, type: 3}
+  m_Name: PlayerSkinDB
+  m_EditorClassIdentifier: 
+  PlayerSkins:
+  - SkinID: 1
+    SkinColor: {r: 1, g: 0.58431375, b: 0.105882354, a: 1}
+    Cost: 0
+  - SkinID: 2
+    SkinColor: {r: 0.19155559, g: 1, b: 0.10588235, a: 1}
+    Cost: 100
+  - SkinID: 3
+    SkinColor: {r: 0.10588235, g: 0.8409136, b: 1, a: 1}
+    Cost: 100
+  - SkinID: 4
+    SkinColor: {r: 0.10588235, g: 0.27525356, b: 1, a: 1}
+    Cost: 100
+  - SkinID: 5
+    SkinColor: {r: 0.7477931, g: 0.10588235, b: 1, a: 1}
+    Cost: 100
+  - SkinID: 6
+    SkinColor: {r: 1, g: 0.10588235, b: 0.72101545, a: 1}
+    Cost: 100
+  - SkinID: 7
+    SkinColor: {r: 1, g: 0.10588235, b: 0.22371484, a: 1}
+    Cost: 100
+  - SkinID: 8
+    SkinColor: {r: 0.9631782, g: 1, b: 0.10588235, a: 1}
+    Cost: 100
